@@ -1,9 +1,106 @@
-#painel-sobre{
-	margin-top: 20px;
+
+
+.body {
+background-color: cyan; 
 }
 
-.titulo-clientes{
-	background-color: #0275D8;
-	padding: 10px;
-	
+.titulo {
+color: rgb(3, 38, 104);
+text-align: center;
+font-size: 30px;
+margin: 20px;
 }
+
+.paragrafo {
+color: rgb(3, 38, 104);
+font-size: 20px;
+margin: 20px;
+text-align: justify;
+}
+
+.pais {
+color: rgb(3, 38, 104);;
+font-size: 30px;
+margin: 0px;
+}
+
+.sky {
+border: 3px solid rgb(3, 38, 104); 
+border-radius: 30px;
+margin-left: 35px;
+}
+
+.jogo {
+color: rgb(3, 38, 104);
+font-size: 25px;
+margin: 10px;
+}   
+
+.cyber {
+color: rgb(3, 38, 104);
+font-size: 25px;
+margin: 10px;
+}
+
+.filme {
+color: rgb(3, 38, 104);
+font-size: 25px;
+margin: 10px;
+}
+
+.japa {
+border: 3px solid rgb(3, 38, 104);
+border-radius: 30px;
+margin-left: 30px;
+}
+
+.eua {
+border: 3px solid rgb(3, 38, 104);
+border-radius: 30px;
+margin-left: 30px;
+}
+
+.italy {
+border: 3px solid rgb(3, 38, 104);
+border-radius: 30px;
+margin-left: 30px;
+}
+
+.tabela {
+border: 3px solid rgb(3, 38, 104);
+border-radius: 30px;
+margin: 10px;;
+}
+
+.japao {
+color: rgb(3, 38, 104);
+font-size: 50px;
+text-align: center;
+}
+
+.estados {
+color: rgb(3, 38, 104);
+font-size: 50px;
+text-align: center;
+}
+
+.italia {
+color: rgb(3, 38, 104);
+font-size: 50px;
+text-align: center;
+}
+
+.nomesPais {
+color: rgb(3, 38, 104);
+font-size: 40px;
+text-align: center;
+}
+
+.imagensPais {
+color: rgb(3, 38, 104);    
+font-size: 40px;
+text-align: center;
+}
+
+
+
